@@ -4,6 +4,12 @@ VRM 角色轉換、檢視與調整工具。提供快速模式與專家模式，�
 
 A Windows toolkit for VRM / HIK FBX conversion, character inspection, materials, spring-bone physics and VMC motion preview.
 
+## 介紹影片 / Introduction
+
+[![觀看 SaintMocap VRM Toolkit 介紹影片](https://img.youtube.com/vi/DB7uInSvNzQ/hqdefault.jpg)](https://youtu.be/DB7uInSvNzQ)
+
+[▶ 觀看影片 / Watch the introduction](https://youtu.be/DB7uInSvNzQ)
+
 ## 下載 / Download
 
 **[下載 Windows x64 一般版 2.0.1 beta](https://github.com/hysaint3d/SaintMocap_VRM_Toolkit/releases/download/v2.0.1-beta/SaintMocap_VRM_Toolkit_2.0.1-beta_Windows_x64.zip)**
@@ -26,7 +32,7 @@ Extract the entire ZIP and run `SaintMocap_VRM_Toolkit.exe`. Keep the data folde
 
 ## 版本範圍 / Edition
 
-- 此下載為 **Windows x64 一般版**，不是 3D 特別版。/ Windows x64 Standard Edition, not the 3D Special Edition.
+- 此下載適用於 **Windows x64**。/ Available for Windows x64.
 - VMC 預設 UDP 39539，可自行設定。/ Configurable VMC port; default UDP 39539.
 - NDI 輸出需另外安裝相容的 NDI Runtime。/ NDI output requires a separately installed compatible NDI Runtime.
 - 目前沒有提供 macOS 執行檔。/ No macOS build is provided yet.
