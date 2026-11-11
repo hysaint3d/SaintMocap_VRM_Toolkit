@@ -12,7 +12,7 @@ A Windows toolkit for VRM / HIK FBX conversion, character inspection, materials,
 
 ## 下載 / Download
 
-**[下載 Windows x64 一般版 2.0.1 beta](https://github.com/hysaint3d/SaintMocap_VRM_Toolkit/releases/download/v2.0.1-beta/SaintMocap_VRM_Toolkit_2.0.1-beta_Windows_x64.zip)**
+**[下載 Windows x64 一般版 2.0.2 beta](https://github.com/hysaint3d/SaintMocap_VRM_Toolkit/releases/download/v2.0.2-beta/SaintMocap_VRM_Toolkit_2.0.2-beta_Windows_x64.zip)**
 
 [所有版本與更新說明 / Releases](https://github.com/hysaint3d/SaintMocap_VRM_Toolkit/releases)
 
@@ -43,7 +43,7 @@ Extract the entire ZIP and run `SaintMocap_VRM_Toolkit.exe`. Keep the data folde
 Release 提供 `SHA256SUMS.txt`，可核對下載 ZIP 的 SHA-256。
 
 ```powershell
-Get-FileHash .\SaintMocap_VRM_Toolkit_2.0.1-beta_Windows_x64.zip -Algorithm SHA256
+Get-FileHash .\SaintMocap_VRM_Toolkit_2.0.2-beta_Windows_x64.zip -Algorithm SHA256
 ```
 
 ## 回報問題 / Feedback
